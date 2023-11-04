@@ -1,5 +1,4 @@
 import streamlit as st
-import openai
 
 
 def generate_response(txt):
