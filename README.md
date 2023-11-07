@@ -11,7 +11,7 @@ Welcome to the documentation for our AI-powered Comic Generator application! Thi
 - [Features](#features)
 - [Usage](#usage)
 - [Feedback and Support](#feedback-and-support)
-- [License](#license)
+
 
 ## Features
 
@@ -47,8 +47,3 @@ Using our AI Comic Generator is simple and user-friendly:
 
 We value your feedback and are here to provide support. If you encounter any issues, have suggestions for improvements, or need assistance, please contact us at jl1255@duke.com 
 
-## License
-
-This AI Comic Generator app is distributed under the [MIT License](LICENSE). Feel free to use and modify it according to your needs, but please attribute the original work appropriately.
-
-Thank you for choosing our AI Comic Generator app! We hope it enhances your educational experiences and enables fans to bring their favorite stories to life in manga form.
